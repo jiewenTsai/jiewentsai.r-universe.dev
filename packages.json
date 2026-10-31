@@ -1,0 +1,10 @@
+[
+  {"package": "kits",      "url": "https://github.com/jiewenTsai/kits"},
+  {"package": "kitDesign", "url": "https://github.com/jiewenTsai/kitDesign"},
+  {"package": "kitsUI",    "url": "https://github.com/jiewenTsai/kitsUI"},
+  {"package": "kitJoin",   "url": "https://github.com/jiewenTsai/kitJoin"},
+  {"package": "kitverse",  "url": "https://github.com/jiewenTsai/kitverse"},
+  {"package": "tppcm",     "url": "https://github.com/jiewenTsai/tppcm"},
+  {"package": "birt",      "url": "https://github.com/jiewenTsai/birt"},
+  {"package": "birtRcpp",  "url": "https://github.com/jiewenTsai/birtRcpp"}
+]
